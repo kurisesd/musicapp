@@ -3,10 +3,8 @@
 ## 首页
 ![首页面](src/assets/img/zhuye.png)
 
-## Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 歌单
+![歌单页](src/assets/img/gedan.png)
 
 ## Compiles and minifies for production
 ```
