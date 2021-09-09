@@ -1,19 +1,17 @@
-# musicapp
+# 网易云移动端
 
-## Project setup
-```
-npm install
-```
+## 首页
+![首页面](musicapp/src/assets/img/zhuye.png)
 
-### Compiles and hot-reloads for development
+## Compiles and hot-reloads for development
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+## Compiles and minifies for production
 ```
 npm run build
 ```
 
-### Customize configuration
+## Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
