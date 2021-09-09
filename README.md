@@ -7,7 +7,7 @@
 ![歌单页](src/assets/img/gedan.png)
 
 ## 播放
-![播放页](src/assest/img/bofang.png)
+![播放页](src/assets/img/bofang.png)
 
 ## 歌词
-![歌词页](src/assest/img/geci.png)
+![歌词页](src/assets/img/geci.png)
