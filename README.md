@@ -11,3 +11,9 @@
 
 ## 歌词
 ![歌词页](src/assets/img/geci.png)
+
+## 登录
+![登录页](src/assets/img/denglu.png)
+
+## 个人中心
+![个人中心页](src/assets/img/gerenzhongxin.png)
