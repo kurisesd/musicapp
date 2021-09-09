@@ -1,7 +1,7 @@
 # 网易云移动端
 
 ## 首页
-![首页面](musicapp/blob/master/src/assets/img/zhuye.png)
+![首页面](src/assets/img/zhuye.png)
 
 ## Compiles and hot-reloads for development
 ```
