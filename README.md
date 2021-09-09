@@ -6,10 +6,8 @@
 ## 歌单
 ![歌单页](src/assets/img/gedan.png)
 
-## Compiles and minifies for production
-```
-npm run build
-```
+## 播放
+![播放页](src/assest/img/bofang.png)
 
-## Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 歌词
+![歌词页](src/assest/img/geci.png)
